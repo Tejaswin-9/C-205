@@ -93,7 +93,3 @@ def setup():
 
 
 setup()
-
-
-# Storing Client data
-# Sending Random numbers to CLIENT

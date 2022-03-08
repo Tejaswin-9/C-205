@@ -191,18 +191,3 @@ def setup():
 
 
 setup()
-
-
-
-
-
-
-
-
-
-
-
-# NOTE:
-    # Creating Game Window
-    # creating Ticket
-    # Placing Numbers Inside ticket
